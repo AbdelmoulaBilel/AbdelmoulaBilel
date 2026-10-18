@@ -6,7 +6,7 @@
 
 ### Full-Stack Developer · [Soraia](https://soraia.io) · July 2024 to October 2026
 
-- **AI candidate matching** for a recruitment ATS and CRM used by a Spanish recruitment agency with a large database of contacts, companies and candidates: OpenAI embeddings and vector search in Xano, combined with filters.
+- **AI candidate matching** for an ATS and CRM used by a Spanish recruitment agency with a large database of contacts, companies and candidates: OpenAI embeddings and vector search in Xano, combined with filters.
 - **Instant CV processing:** candidates get confirmed right away while OpenAI and Google Vision extract the details in the background, with duplicate checks.
 - **Advanced search:** boolean filters (AND / OR / NOT) and a distance filter in km, sorted closest first, with Google location APIs.
 - **Integrations** with external services (OpenAI, Google Vision, Google location APIs, Brevo, Bird, Make, Clientify) and Python import scripts, with caching, rate limiting and error handling so one failing service never breaks the app.
