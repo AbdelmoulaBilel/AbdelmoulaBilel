@@ -7,10 +7,10 @@
 ### Full-Stack Developer · [Soraia](https://soraia.io) · July 2024 to October 2026
 
 - **AI candidate matching** for a recruitment ATS and CRM used by a Spanish agency (130k contacts, 100k companies, 35k candidates, 4k jobs): OpenAI embeddings and vector search in Xano, combined with filters.
-- **CV processing from 32 s to instant:** candidates get confirmed right away while OpenAI and Google Vision extract the details in the background, with duplicate checks.
+- **Instant CV processing:** candidates get confirmed right away while OpenAI and Google Vision extract the details in the background, with duplicate checks.
 - **Advanced search:** boolean filters (AND / OR / NOT) and a distance filter in km, sorted closest first, with Google location APIs.
 - **8+ integrations** (OpenAI, Google Vision, Google location APIs, Brevo, Bird, Make, Clientify) and Python import scripts, with caching, rate limiting and error handling so one failing service never breaks the app.
-- **Performance and security:** slow endpoints cut from 12 s to 0.8 s with indexes and background jobs; 6-role RBAC, IP rate limiting and SQL injection protection.
+- **Performance and security:** made slow endpoints fast with database indexes and background jobs; role-based access control, IP rate limiting and SQL injection protection.
 - **Guest management platform** for a Saudi events group (13 companies, 12 countries): guests, flights, accommodations and driver assignments, with OpenAI extracting details from documents.
 - **Sales websites:** built about 5 free websites for prospective clients, published live with Claude, Git and Cloudflare, and optimized for conversions, AI search and SEO.
 
