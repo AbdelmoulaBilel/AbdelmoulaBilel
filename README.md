@@ -2,6 +2,8 @@
 
 **Full-stack developer** in Oran, Algeria, with a Master's in Computer Science from USTO-MB. 2+ years building an AI-powered recruitment platform end to end, from database to UI (Xano, PostgreSQL, React, Python), after 4 years of freelance web development. **Open to remote work.**
 
+📄 **[View my CV (PDF)](https://drive.google.com/file/d/1OOwnvUPy0d0z1B8h4epqPT0gGbgLOCuV/view?usp=sharing)**
+
 ## Experience
 
 ### Full-Stack Developer · [Soraia](https://soraia.io) (Biella, Italy · remote) · July 2024 to October 2026
@@ -52,4 +54,4 @@ The two websites are concept sites for fictional businesses, built the same way 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/abdelmoulabilel) · [abdelmoulabilel2000@gmail.com](mailto:abdelmoulabilel2000@gmail.com)
+[CV (PDF)](https://drive.google.com/file/d/1OOwnvUPy0d0z1B8h4epqPT0gGbgLOCuV/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/abdelmoulabilel) · [abdelmoulabilel2000@gmail.com](mailto:abdelmoulabilel2000@gmail.com)
