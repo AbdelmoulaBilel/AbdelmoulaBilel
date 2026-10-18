@@ -4,7 +4,7 @@
 
 ## Experience
 
-### Full-Stack Developer · [Soraia](https://soraia.io) · July 2024 to October 2026
+### Full-Stack Developer · [Soraia](https://soraia.io) (Biella, Italy · remote) · July 2024 to October 2026
 
 - **AI candidate matching** for an ATS and CRM used by a Spanish recruitment agency with a large database of contacts, companies and candidates: OpenAI embeddings and vector search in Xano, combined with filters.
 - **Instant CV processing:** candidates get confirmed right away while OpenAI and Google Vision extract the details in the background, with duplicate checks.
