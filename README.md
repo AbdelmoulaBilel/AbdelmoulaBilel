@@ -14,7 +14,7 @@
 - **Guest management platform** for an international events group based in Saudi Arabia: guests, flights, accommodations and driver assignments, with OpenAI extracting details from documents.
 - **Sales websites:** built free websites for prospective clients, published live with Claude, Git and Cloudflare, and optimized for conversions, AI search and SEO.
 
-**Before Soraia:** Salesforce Developer Intern at Soljit (2023) · Freelance front-end developer for small businesses and startups (2020 to 2023).
+**Before Soraia:** Salesforce Developer Intern at Soljit (2023) · Freelance front-end developer for small businesses and startups (2019 to 2023).
 
 ## Featured projects
 
