@@ -36,12 +36,15 @@ Italian software startup building custom platforms for clients.
 
 | Project | What it is | Stack |
 |---|---|---|
+| [Mosque website template](https://github.com/AbdelmoulaBilel/mosque-website-template) · [live](https://abdelmoulabilel.github.io/mosque-website-template/) | Prayer times for any city computed in the browser (match Aladhan to the minute), Qibla, monthly timetable, prayer-hall TV screen. English, French, Arabic (RTL) | HTML, CSS, JS, Intl API |
+| [Quilt shop template](https://github.com/AbdelmoulaBilel/quilt-shop-template) · [live](https://abdelmoulabilel.github.io/quilt-shop-template/) | 3D effects without libraries: needle-and-thread cursor (rope physics), 3D push menu, flip cards, 3D carousel | HTML, CSS 3D, JS, Canvas |
+| [Website templates](https://github.com/AbdelmoulaBilel/website-templates) · [gallery](https://abdelmoulabilel.github.io/website-templates/) | 6 free, responsive templates (mosque, quilt shop, spa, fintech, research lab, creative agency), each a one-click GitHub template | HTML, CSS, JS |
 | [Fire & Flour](https://github.com/AbdelmoulaBilel/Restaurant-website) · [live](https://abdelmoulabilel.github.io/Restaurant-website/) | Conversion-focused restaurant website with menu, reservations and an AI assistant | HTML, CSS, JS, Claude API |
 | [Peerly Spa & Beauty](https://github.com/AbdelmoulaBilel/SPA-website) · [live](https://abdelmoulabilel.github.io/SPA-website/) | Spa website (French) with packages, WhatsApp booking and an AI assistant | HTML, CSS, JS, Claude API |
 | [site-assistant](https://github.com/AbdelmoulaBilel/site-assistant) | Cloudflare Worker behind the AI assistants: one backend, per-site knowledge, rate limiting | JavaScript, Cloudflare Workers, Claude API |
 | [lsi-spark](https://github.com/AbdelmoulaBilel/lsi-spark) | Master's thesis: Latent Semantic Indexing search engine, NumPy vs Apache Spark SVD benchmark | Python, NumPy, PySpark |
 
-The two websites are concept sites for fictional businesses, built the same way as my sales websites: Lighthouse 96 to 100, AI-search ready.
+The restaurant and spa websites are concept sites for fictional businesses, built the same way as my sales websites: Lighthouse 96 to 100, AI-search ready.
 
 ## Skills
 
