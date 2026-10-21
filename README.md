@@ -2,7 +2,7 @@
 
 **Full-stack developer** in Oran, Algeria, with a Master's in Computer Science from USTO-MB. 2+ years building an AI-powered recruitment platform end to end, from database to UI (Xano, PostgreSQL, React, Python), after 4 years of freelance web development. **Open to remote work.**
 
-🌐 **[Portfolio: bilel.pages.dev](https://bilel.pages.dev)** · 📄 **[View my CV (PDF)](https://drive.google.com/file/d/1OOwnvUPy0d0z1B8h4epqPT0gGbgLOCuV/view?usp=sharing)** · 📅 **[Book a call](https://calendar.app.google/jx4d7Q7eCwDpjrjx7)**
+🌐 **[Portfolio: bilelabdelmoula.dev](https://bilelabdelmoula.dev)** · 📄 **[View my CV (PDF)](https://drive.google.com/file/d/1OOwnvUPy0d0z1B8h4epqPT0gGbgLOCuV/view?usp=sharing)** · 📅 **[Book a call](https://calendar.app.google/jx4d7Q7eCwDpjrjx7)**
 
 ## Experience
 
@@ -57,4 +57,4 @@ The restaurant and spa websites are concept sites for fictional businesses, buil
 
 ## Contact
 
-[Portfolio](https://bilel.pages.dev) · [CV (PDF)](https://drive.google.com/file/d/1OOwnvUPy0d0z1B8h4epqPT0gGbgLOCuV/view?usp=sharing) · [Book a call](https://calendar.app.google/jx4d7Q7eCwDpjrjx7) · [LinkedIn](https://www.linkedin.com/in/abdelmoulabilel) · [abdelmoulabilel2000@gmail.com](mailto:abdelmoulabilel2000@gmail.com)
+[Portfolio](https://bilelabdelmoula.dev) · [CV (PDF)](https://drive.google.com/file/d/1OOwnvUPy0d0z1B8h4epqPT0gGbgLOCuV/view?usp=sharing) · [Book a call](https://calendar.app.google/jx4d7Q7eCwDpjrjx7) · [LinkedIn](https://www.linkedin.com/in/abdelmoulabilel) · [abdelmoulabilel2000@gmail.com](mailto:abdelmoulabilel2000@gmail.com)
