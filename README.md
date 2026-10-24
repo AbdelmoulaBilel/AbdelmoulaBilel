@@ -1,60 +1,44 @@
-# Hi, I'm Bilel Abdelmoula 👋
+# Hi, I'm Bilel 👋
 
-**Full-stack developer** in Oran, Algeria, with a Master's in Computer Science from USTO-MB. 2+ years building an AI-powered recruitment platform end to end, from database to UI (Xano, PostgreSQL, React, Python), after 4 years of freelance web development. **Open to remote work.**
+Full-Stack Developer based in Oran, Algeria.
 
-🌐 **[Portfolio: bilelabdelmoula.dev](https://bilelabdelmoula.dev)** · 📄 **[View my CV (PDF)](https://drive.google.com/file/d/1OOwnvUPy0d0z1B8h4epqPT0gGbgLOCuV/view?usp=sharing)** · 📅 **[Book a call](https://calendar.app.google/jx4d7Q7eCwDpjrjx7)**
+I build production web applications across React/TypeScript, APIs, PostgreSQL and applied AI. Most recently I worked at [Soraia](https://soraia.io) on a custom recruitment ATS/CRM, where I owned major backend/database areas, built AI candidate matching, worked on security and performance, and helped rebuild the entire frontend in React.
 
-## Experience
+**Main stack:** React · TypeScript · JavaScript · PostgreSQL · REST APIs · Xano · Cloudflare · OpenAI
 
-### Full-Stack Developer · [Soraia](https://soraia.io) (Biella, Italy · remote) · July 2024 to October 2026
+🌐 [Portfolio](https://bilelabdelmoula.dev) · 📄 [CV](https://bilelabdelmoula.dev/Bilel_Abdelmoula_CV.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/abdelmoulabilel)
 
-Italian software startup building custom platforms for clients.
+## Professional work
 
-**Recruitment platform (ATS & CRM) for a Spanish agency** · 130k contacts, 35k candidates, 4k jobs
+### Talent Match / Braint
 
-- **AI candidate matching** with OpenAI embeddings and vector search, plus boolean (AND / OR / NOT) and distance filters.
-- **CV upload wait cut from 32 s to under 1 s** by moving OpenAI and Google Vision parsing to background jobs.
-- **Slow endpoints made 15× faster** (12 s → 0.8 s) with PostgreSQL indexes and background jobs.
-- **Indexed the columns used in filters** and replaced boolean flags with an indexed type column for fast search.
-- **Rebuilt the WeWeb frontend in React + TypeScript** with Claude Code: login, settings and a KPI dashboard.
-- **Integrated 8+ APIs** (OpenAI, Google Vision, Google Maps, Brevo, Bird, Make, Clientify) and wrote Python scripts to analyze, clean and import data.
-- **Email and messaging campaigns** through Brevo and Bird, with rules that protect client contacts.
-- **Cleaned CRM data:** merged duplicate contacts and built a CSV import that fills gaps without overwriting.
-- **Sales pipeline:** opportunity Kanban boards, KPI dashboards and Excel exports.
-- **Security:** 6-role RBAC, rate limiting and SQL injection protection after an external audit.
-- **Teamwork:** worked with PMs, developers, a designer and the founders in stand-ups and ticket reviews.
+Production ATS/CRM and AI recruitment platform built at Soraia for a Spanish recruitment company.
 
-**Other client projects**
+- Full React + TypeScript frontend migration
+- PostgreSQL/Xano backend and data work
+- Embeddings/vector candidate matching
+- CV OCR/AI enrichment
+- RBAC/security
+- Performance optimization
 
-- **Guest management platform** for an events group in Saudi Arabia: guests, flights, hotels and drivers, with AI reading travel documents.
-- **International elections MVP** for a European government (Xano, WeWeb) to track candidacies and support.
-- **Sales websites** for prospective clients to win larger projects (Cloudflare, SEO and AI search).
+→ [Read the case study](https://bilelabdelmoula.dev/projects/talent-match/)
 
-**Before Soraia:** Salesforce Developer Intern at Soljit (2023) · Freelance front-end developer for small businesses and startups (2019 to 2023).
+### Other client work
 
-## Featured projects
+- Event guest-management MVP for a Saudi events client
+- Confidential public-sector MVP
+- Contribution to Stars Be Original ATS/internal tooling
 
-| Project | What it is | Stack |
-|---|---|---|
-| [Mosque website template](https://github.com/AbdelmoulaBilel/mosque-website-template) · [live](https://abdelmoulabilel.github.io/mosque-website-template/) | Prayer times for any city computed in the browser (match Aladhan to the minute), Qibla, monthly timetable, prayer-hall TV screen. English, French, Arabic (RTL) | HTML, CSS, JS, Intl API |
-| [Quilt shop template](https://github.com/AbdelmoulaBilel/quilt-shop-template) · [live](https://abdelmoulabilel.github.io/quilt-shop-template/) | 3D effects without libraries: needle-and-thread cursor (rope physics), 3D push menu, flip cards, 3D carousel | HTML, CSS 3D, JS, Canvas |
-| [Website templates](https://github.com/AbdelmoulaBilel/website-templates) · [gallery](https://abdelmoulabilel.github.io/website-templates/) | 6 free, responsive templates (mosque, quilt shop, spa, fintech, research lab, creative agency), each a one-click GitHub template | HTML, CSS, JS |
-| [Fire & Flour](https://github.com/AbdelmoulaBilel/Restaurant-website) · [live](https://abdelmoulabilel.github.io/Restaurant-website/) | Conversion-focused restaurant website with menu, reservations and an AI assistant | HTML, CSS, JS, Claude API |
-| [Peerly Spa & Beauty](https://github.com/AbdelmoulaBilel/SPA-website) · [live](https://abdelmoulabilel.github.io/SPA-website/) | Spa website (French) with packages, WhatsApp booking and an AI assistant | HTML, CSS, JS, Claude API |
-| [site-assistant](https://github.com/AbdelmoulaBilel/site-assistant) | Cloudflare Worker behind the AI assistants: one backend, per-site knowledge, rate limiting | JavaScript, Cloudflare Workers, Claude API |
-| [lsi-spark](https://github.com/AbdelmoulaBilel/lsi-spark) | Master's thesis: Latent Semantic Indexing search engine, NumPy vs Apache Spark SVD benchmark | Python, NumPy, PySpark |
+No client source code is published.
 
-The restaurant and spa websites are concept sites for fictional businesses, built the same way as my sales websites: Lighthouse 96 to 100, AI-search ready.
+## Open source
 
-## Skills
-
-- **Programming:** JavaScript, TypeScript, Python, SQL, HTML, CSS
-- **AI:** OpenAI and Claude APIs, embeddings, vector search, prompt engineering, OCR
-- **Backend and data:** Xano, PostgreSQL, PostGIS, MySQL, REST APIs, RBAC, ETL, Pandas, NumPy, Spark
-- **Frontend:** React, WeWeb, responsive design, SEO, Figma
-- **Tools:** Git, GitHub Actions, Cloudflare Workers, Google Apps Script, Airtable, Claude Code, MCP
-- **Languages:** Arabic (native), French (C1), English (C1)
+- **[site-assistant](https://github.com/AbdelmoulaBilel/site-assistant)**: Cloudflare Worker adding Claude chat assistants to websites, with server-side API keys and rate limiting.
+- **[lsi-spark](https://github.com/AbdelmoulaBilel/lsi-spark)**: Master's thesis. Semantic search engine (TF-IDF + SVD), with the SVD stage benchmarked on NumPy vs Apache Spark.
+- **[website-templates](https://github.com/AbdelmoulaBilel/website-templates)**: six free, responsive website templates in plain HTML/CSS/JS.
 
 ## Contact
 
-[Portfolio](https://bilelabdelmoula.dev) · [CV (PDF)](https://drive.google.com/file/d/1OOwnvUPy0d0z1B8h4epqPT0gGbgLOCuV/view?usp=sharing) · [Book a call](https://calendar.app.google/jx4d7Q7eCwDpjrjx7) · [LinkedIn](https://www.linkedin.com/in/abdelmoulabilel) · [abdelmoulabilel2000@gmail.com](mailto:abdelmoulabilel2000@gmail.com)
+Open to international remote roles, contract work and selected freelance projects.
+
+[abdelmoulabilel2000@gmail.com](mailto:abdelmoulabilel2000@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abdelmoulabilel) · [Portfolio](https://bilelabdelmoula.dev)
